@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"主人公","classId":1,"equips":[4,11,102,2],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Taro Skakue","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"リオ","classId":2,"equips":[11,21,103,2],"faceIndex":0,"faceName":"リオ","traits":[],"initialLevel":1,"maxLevel":99,"name":"Rio","nickname":"","note":"","profile":"A hunter girl traveling with the protagonist.\nRumor has it that he used to go wild during the hunt."},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"ユイナ","classId":3,"equips":[21,31,101,2],"faceIndex":0,"faceName":"ユイナ","traits":[],"initialLevel":1,"maxLevel":99,"name":"Yuina","nickname":"","note":"","profile":"A witch studying magical medicine in the kingdom.\nRumor has it that he is playing a big fart while sleeping."},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"レンカ","classId":4,"equips":[31,41,102,5],"faceIndex":0,"faceName":"レンカ","traits":[],"initialLevel":10,"maxLevel":99,"name":"Lenka","nickname":"","note":"","profile":"Knight of the Vempina Kingdom. Runka's sister.\nRumor has it that he hasn't properly cleaned his butt after the toilet."},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"ルンカ","classId":5,"equips":[41,52,102,2],"faceIndex":0,"faceName":"ルンカ","traits":[],"initialLevel":10,"maxLevel":99,"name":"Runka","nickname":"","note":"","profile":"Knight of the Vempina Kingdom. Lenka's sister.\nRumor has it that the toilet time is long."},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"クリッサ","classId":6,"equips":[51,62,101,2,0],"faceIndex":0,"faceName":"クリッサ","traits":[],"initialLevel":15,"maxLevel":99,"name":"Chrissa","nickname":"","note":"","profile":""}
+]
